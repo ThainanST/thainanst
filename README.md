@@ -45,8 +45,8 @@ Currently teaching at [UFOP](https://ufop.br), where I lead undergraduate course
 
 ## 📊 GitHub Stats
 
-![Thainan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThainanST&show_icons=true&theme=nightowl&rank_icon=github)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThainanST&layout=compact&theme=radical)
+![Thainan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThainanST&show_icons=true&theme=highcontrast&rank_icon=percentile)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThainanST&layout=compact&theme=highcontrast)
 
 ---
 
